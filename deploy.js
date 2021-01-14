@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const { abi, evm } = require('./compile');
 
 const provider = new HDWalletProvider(
-    'crime maple lunar axis save wife heart drama board hill daughter timber',
+    'mnemonic',
     'https://rinkeby.infura.io/v3/5214b3f00345452b8ca1d5207ae593f6'
 );
 
